@@ -46,7 +46,7 @@
 
 and continue my education and improvement.
 
-#### :scroll:  <a href="https://karvarr.github.io/ParallaxPortfolio/">My portfolio </a>
+#### :scroll:  <a href="https://karvarr.github.io/ParallaxPortfolio/" target="_blank">My portfolio </a>
 ---
 
 ### :hammer_and_wrench: Languages and Tools:
