@@ -42,9 +42,9 @@
 
 #### :wave: Hi, i'm Karen - a Frontend Developer from Moscow.
 #### :computer: I'm interested in web development and everything connected with it.
-#### :open_book: I have taken web development courses
+#### :open_book: I have taken web development courses and continue my education and improvement.
 
-and continue my education and improvement.
+
 
 #### :scroll:  <a href="https://karvarr.github.io/ParallaxPortfolio/" target="_blank">My portfolio </a>
 ---
