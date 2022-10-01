@@ -14,9 +14,6 @@
 <a href="https://twitter.com/WarKarWar">
 <img src="https://img.shields.io/badge/-Twitter-skyblue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
 </a>
-<a href="https://github.com/KarVarr">
-<img src="https://img.shields.io/badge/-GitHub-dimgrey?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
-</a>
 <a href="tel:+79999878713">
 <img src="https://img.shields.io/badge/-Telegram-teal?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" />
 </a>
