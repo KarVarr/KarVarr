@@ -14,7 +14,7 @@
 <a href="https://twitter.com/WarKarWar">
 <img src="https://img.shields.io/badge/-Twitter-skyblue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
 </a>
-<a href="tel:+79999878713">
+<a href="tel:@karenvardanian">
 <img src="https://img.shields.io/badge/-Telegram-teal?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" />
 </a>
 <a href="mailto:megatr9n@gmail.com">
