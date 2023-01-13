@@ -37,9 +37,11 @@
 ### :man_technologist: About me :
 
 
-#### :wave: Hi, i'm Karen - a Frontend Developer from Moscow.
-#### :computer: I'm interested in web development and everything connected with it.
-#### :open_book: I have taken web development courses and continue my education and improvement.
+#### :wave: Hi, i'm Karen - a iOS Developer from Moscow.
+#### :iphone: I'm interested in iOS development and everything connected with it.
+#### :open_book: I have taken iOS development courses and continue my education and improvement.
+#### :desktop_computer: HarvardX CS50x, 100 Days of Swift, Apple Tutorials and others!
+
 
 
 
