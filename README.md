@@ -73,7 +73,11 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KarVarr&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KarVarr&theme=radical&hide_border=true&anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!---
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KarVarr&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+--->
 <!---
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KarVarr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
