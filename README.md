@@ -90,13 +90,19 @@ You can click the Preview link to take a look at your changes.
 
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
-| https://stepik.org/cert/1422727 Веб-разработка для начинающих: HTML и CSS | 02/2022 - 03/2022 |
-| netology.ru/Основы верстки сайта                                | 02/2022 - 03/2022 |
-| netology.ru/Первые шаги в JavaScript: создаём сайт и приложение | 02/2022 - 03/2022 |
-| stepik.org/Веб-разработка для начинающих: HTML и CSS            | 02/2022 - 03/2022 |
-| stepik.org/JavaScript для начинающих                            | 01/2023 - 01/2023 |
-| stepik.org/Web-технологии: начальный уровень                    | 01/2023 - 01/2023 |
-| practicum.yandex/Факультет Веб разработки                       | 05/2022 - xx/2023 |
+| https://stepik.org/cert/1422727 Веб-разработка для начинающих: HTML и CSS | 02/2022 |
+| The Complete 2023 Web Development Bootcamp - Angela Yu | 03/2022 - 04/2022|
+| https://www.freecodecamp.org/certification/KarVarr/responsive-web-design Responsive Web Design | 06/2022  |
+| https://www.freecodecamp.org/certification/KarVarr/front-end-development-libraries Front End Development Libraries | 07/2022  |
+| https://www.freecodecamp.org/certification/KarVarr/javascript-algorithms-and-data-structures JavaScript Algorithms and Data Structures | 07/2022  |
+| HarvardX CS50x CS50's Introduction to Computer Science                                          | 11/2022 - 01/2023 |
+| iOS & Swift - The Complete iOS App Development Bootcamp - Angela Yu | 11/2022 - 12/2022|
+| https://swiftbook.org/courses/45/certificate/9897?language=en  UIKit Framework course | 01/2023 |
+| https://swiftbook.org/courses/467/certificate/9897?language=en My first applications in Swift  | 12/2022 |
+| The Swift Developers: Swift c нуля          | 12/2023 - 01/2023|
+| The Swift Developers: Swift c нуля: UIKit   | 12/2022 - 01/2023|
+| 100 Days of Swift | 11/2022 - xx/2023|
+| SwiftBook Junior iOS-Developer  | 01/2023 - xx/2023|
 
 ---
 
