@@ -65,9 +65,11 @@
 
 ---
 
-### :trophy: My Stats :
+### 💻 Codewars:
 
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/megatr9n/badges/large)
+
+### :trophy: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KarVarr&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
@@ -82,3 +84,19 @@
 KarVarr/KarVarr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+### 💻 Пройденные курсы:
+
+| Курсы                                                           | Дата              |
+| ----------------------------------------------------------------| :---------------: |
+| https://stepik.org/cert/1422727 Веб-разработка для начинающих: HTML и CSS | 02/2022 - 03/2022 |
+| netology.ru/Основы верстки сайта                                | 02/2022 - 03/2022 |
+| netology.ru/Первые шаги в JavaScript: создаём сайт и приложение | 02/2022 - 03/2022 |
+| stepik.org/Веб-разработка для начинающих: HTML и CSS            | 02/2022 - 03/2022 |
+| stepik.org/JavaScript для начинающих                            | 01/2023 - 01/2023 |
+| stepik.org/Web-технологии: начальный уровень                    | 01/2023 - 01/2023 |
+| practicum.yandex/Факультет Веб разработки                       | 05/2022 - xx/2023 |
+
+---
+
