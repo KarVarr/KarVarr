@@ -75,6 +75,8 @@
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KarVarr&theme=radical&hide_border=true&anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=KarVarr&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!---
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KarVarr&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 --->
