@@ -93,9 +93,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-### 💻 Пройденные курсы:
+### 💻 Completed courses:
 
-| Курсы                                                           | Дата              |
+| Courses                                                          | Date              |
 | ----------------------------------------------------------------| :---------------: |
 | https://stepik.org/cert/1422727 Веб-разработка для начинающих: HTML и CSS | 02/2022 - 02/2022 |
 | The Complete 2023 Web Development Bootcamp - Angela Yu | 03/2022 - 04/2022|
