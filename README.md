@@ -65,6 +65,7 @@
 
 ---
 <div id="header" align="center">
+  
 ### 💻 Codewars:
 
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/megatr9n/badges/large)
@@ -111,8 +112,7 @@ You can click the Preview link to take a look at your changes.
 | SwiftBook Junior iOS-Developer  | 01/2023 - xx/2023|
 
 ---
-</div>
 
-<div id="header" align="center">
-  <img src="https://www.it8bit.com/image/188768767558" width="600"/>
+  <img src="https://media.giphy.com/media/vux6LUcq3y4CrIuLko/giphy.gif" width="900"/>
+  
 </div>
