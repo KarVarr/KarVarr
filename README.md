@@ -71,12 +71,23 @@
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/megatr9n/badges/large)
 
 ### :octocat: My Stats :
+  <table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=KarVarr&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="KarVarr's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="KarVarr's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KarVarr&theme=radical&hide_border=true&anuraghazra&layout=compact" />
+    </td>
+  </tr>
+</table>
+  
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=KarVarr&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-| [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KarVarr&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)] | [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KarVarr&theme=radical&hide_border=true&anuraghazra&layout=compact)] |
-
+<!---
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KarVarr&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)] 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KarVarr&theme=radical&hide_border=true&anuraghazra&layout=compact)]
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=KarVarr&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+--->
 
 <!---
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KarVarr&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
