@@ -126,6 +126,6 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-  <img src="https://media.giphy.com/media/vux6LUcq3y4CrIuLko/giphy.gif" width="900"/>
+  <img src="https://i.yapx.cc/VW6Yi.gif" width="900"/>
   
 </div>
