@@ -126,6 +126,6 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-  <img src="https://yapx.ru/image/VW6Yi" width="900"/>
+  <img src="https://img2.joyreactor.cc/pics/post/full/Марио-Игры-Pixel-Gif-Pixel-Art-5534641.gif" width="900"/>
   
 </div>
