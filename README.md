@@ -14,9 +14,11 @@
 <a href="https://twitter.com/WarKarWar">
 <img src="https://img.shields.io/badge/-Twitter-skyblue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
 </a>
+<!---
 <a href="tel:@karenvardanian">
 <img src="https://img.shields.io/badge/-Telegram-teal?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" />
 </a>
+--->
 <a href="mailto:megatr9n@gmail.com">
 <img src="https://img.shields.io/badge/-Email-lightgreen?style=for-the-badge&logo=google&logoColor=white" alt="Email Badge" />
 </a>
@@ -37,11 +39,13 @@
 ### :man_technologist: About me :
 
 
-#### :wave: Hi, i'm Karen - a iOS Developer from Moscow.
+#### :wave: Hi, I’m Karen from Moscow.
+#### <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp;  Hi, I’m currently learning - Swift!
 #### :iphone: I'm interested in iOS development and everything connected with it.
 #### :open_book: I have taken iOS development courses and continue my education and improvement.
 #### :desktop_computer: HarvardX CS50x, 100 Days of Swift, Apple Tutorials and others!
 
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[@karenvardanian](https://web.telegram.org/k/)**<br>
 
 
 
