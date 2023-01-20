@@ -36,12 +36,12 @@
 
 
 
-### :man_technologist: About me :
+## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; About me :
 
 
-#### :wave: Hi, I’m Karen from Moscow.
-#### <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp;  Hi, I’m currently learning - Swift!
-#### :iphone: I'm interested in iOS development and everything connected with it.
+#### <img src="https://media.giphy.com/media/4f0JolPa5BftTbOWyH/giphy.gif" width="20" />&nbsp;&nbsp;&nbsp; Hi, I’m Karen from Moscow.
+#### <img src="https://media.giphy.com/media/35nU79vBbeOm4/giphy.gif" width="20" />&nbsp;&nbsp;&nbsp; I’m currently learning - Swift!
+#### <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="20" />&nbsp;&nbsp;&nbsp; I'm interested in iOS development and everything connected with it.
 #### :open_book: I have taken iOS development courses and continue my education and improvement.
 #### :desktop_computer: HarvardX CS50x, 100 Days of Swift, Apple Tutorials and others!
 
