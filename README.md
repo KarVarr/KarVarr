@@ -25,10 +25,11 @@
 
 </div>
 <img src="https://komarev.com/ghpvc/?username=KarVarr&style=flat-square&color=blue" alt="Counter"/>
-
+<!---
 <h1>
   <img src="https://media.giphy.com/media/H8FP5CniGPbB4zFnRR/giphy.gif" width="30px"/>
 </h1>
+--->
 </div>
 
 
