@@ -27,7 +27,6 @@
 <img src="https://komarev.com/ghpvc/?username=KarVarr&style=flat-square&color=blue" alt="Counter"/>
 
 <h1>
-  Hey there!
   <img src="https://media.giphy.com/media/H8FP5CniGPbB4zFnRR/giphy.gif" width="30px"/>
 </h1>
 </div>
@@ -39,9 +38,9 @@
 ## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; About me :
 
 
-#### <img src="https://media.giphy.com/media/4f0JolPa5BftTbOWyH/giphy.gif" width="20" />&nbsp;&nbsp;&nbsp; Hi, I’m Karen from Moscow.
-#### <img src="https://media.giphy.com/media/35nU79vBbeOm4/giphy.gif" width="20" />&nbsp;&nbsp;&nbsp; I’m currently learning - Swift!
-#### <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="20" />&nbsp;&nbsp;&nbsp; I'm interested in iOS development and everything connected with it.
+#### <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> Hi, I’m Karen from Moscow.
+#### :calling: I’m currently learning - Swift!
+#### :magnet: I'm interested in iOS development and everything connected with it.
 #### :open_book: I have taken iOS development courses and continue my education and improvement.
 #### :desktop_computer: HarvardX CS50x, 100 Days of Swift, Apple Tutorials and others!
 
