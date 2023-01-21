@@ -39,7 +39,7 @@
 ## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; About me :
 
 #### <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> Hi, I’m Karen from Moscow.
-#### :calling: I’m currently learning - Swift!
+#### :calling: I’m currently learning Swift!
 #### :magnet: I'm interested in iOS development and everything connected with it.
 #### :open_book: I have taken iOS development courses and continue my education and improvement.
 #### :desktop_computer: HarvardX CS50x, 100 Days of Swift, Apple Tutorials and others!
@@ -87,7 +87,7 @@
   </tr>
 </table>
   
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=KarVarr&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=KarVarr&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!---
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KarVarr&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)] 
