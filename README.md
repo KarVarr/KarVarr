@@ -79,7 +79,7 @@
 ```text                                                   
 Усов В.: Swift         ███████████████████▒░░░   80.00 %.  
 Clean code             ██████████▒░░░░░░░░░░░░   40.00 %.  
-Grokking Algorithms    █▒░░░░░░░░░░░░░░░░░░░░░   1.00 %.    
+ Grokking Algorithms    █▒░░░░░░░░░░░░░░░░░░░░░   1.00 %.    
 ``` 
 
   <!---
@@ -157,6 +157,6 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-  <img src="https://s9.gifyu.com/images/MARIO-IGRY-Pixel-Gif-Pixel-Art-5534641-2.gif" width="1000"/>
+  <img src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433" width="1000"/>
   
 </div>
