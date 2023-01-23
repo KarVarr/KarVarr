@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="300"/>
+  <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" width="1005"/>
 
 
 
@@ -68,15 +68,18 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg"  title="xcode" alt="xcode" width="40" height="40"/>&nbsp;
 </div>
 
----
+--- 
 
 <div id="header" align="center">
-<img src="https://cdna.artstation.com/p/assets/images/images/028/523/344/original/pixel-jeff-night-shift.gif?1594728103" width="1000"/>
+  
+  ### :books: Books:
+  
+<img src="https://cdna.artstation.com/p/assets/images/images/028/523/344/original/pixel-jeff-night-shift.gif?1594728103" width="1005"/>
   
   ```text                                                   
 Усов В.: Swift         ███████████████████▒░░░   80.00 %.  
 Clean code             ██████████▒░░░░░░░░░░░░   40.00 %.  
-Grokking Algorithms    █▒░░░░░░░░░░░░░░░░░░░░░   1.00 %    
+Grokking Algorithms    █▒░░░░░░░░░░░░░░░░░░░░░   1.00 %.    
 ``` 
 
   <!---
@@ -87,6 +90,7 @@ Grokking Algorithms    █▒░░░░░░░░░░░░░░░░░
 | Grokking Algorithms                           |   █▒░░░░░░░░░░░░░░░░░░░░░   1.00 % .|
   
 https://media.giphy.com/media/WoWm8YzFQJg5i/giphy.gif
+https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif
  --->
 ---
   
@@ -153,6 +157,6 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-  <img src="https://s9.gifyu.com/images/MARIO-IGRY-Pixel-Gif-Pixel-Art-5534641-2.gif" width="1000"/>
+  <img src="https://s9.gifyu.com/images/MARIO-IGRY-Pixel-Gif-Pixel-Art-5534641-2.gif" width="1005"/>
   
 </div>
