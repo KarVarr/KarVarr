@@ -71,20 +71,21 @@
 ---
 
 <div id="header" align="center">
-<img src="https://cdna.artstation.com/p/assets/images/images/028/523/344/original/pixel-jeff-night-shift.gif?1594728103" width="300"/>
+<img src="https://cdna.artstation.com/p/assets/images/images/028/523/344/original/pixel-jeff-night-shift.gif?1594728103" width="1000"/>
   
-| Books                                                          | Progress           |
+  ```text                                                   
+Усов В.: Swift         ███████████████████▒░░░   80.00 %.  
+Clean code             ██████████▒░░░░░░░░░░░░   40.00 %.  
+Grokking Algorithms    █▒░░░░░░░░░░░░░░░░░░░░░   1.00 %    
+``` 
+
+  <!---
+   | Books                                                          | Progress           |
 | ----------------------------------------------------------------| :---------------: |
 | Усов В.: Swift                                 |  ███████████████████▒░░░   80.00 %.|
 | Clean code                                   |   ██████████▒░░░░░░░░░░░░   40.00 %. |
 | Grokking Algorithms                           |   █▒░░░░░░░░░░░░░░░░░░░░░   1.00 % .|
   
-  <!---
-```text                                                   
-Усов В.: Swift         ███████████████████▒░░░   80.00 %.  
-Clean code             ██████████▒░░░░░░░░░░░░   40.00 %.  
-Grokking Algorithms    █▒░░░░░░░░░░░░░░░░░░░░░   1.00 %    
-```    
 https://media.giphy.com/media/WoWm8YzFQJg5i/giphy.gif
  --->
 ---
