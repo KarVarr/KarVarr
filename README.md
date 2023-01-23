@@ -69,15 +69,14 @@
 </div>
 
 ---
-|Books                                                            |                   |
-| ----------------------------------------------------------------| :---------------: |
-| ```text
+
+<img src="https://media.giphy.com/media/U4dSem18gg72o7Rq0F/giphy.gif" width="300"/>
+
+```text
 Усов В.: Swift         ███████████████████▒░░░   80.00 %
 Clean code             ██████████▒░░░░░░░░░░░░   40.00 %
 Grokking Algorithms    █▒░░░░░░░░░░░░░░░░░░░░░   1.00 %
-```                                                               |<img src="https://media.giphy.com/media/U4dSem18gg72o7Rq0F/giphy.gif" width="300"/> |
-
-
+```                                                               
 ---
 <div id="header" align="center">
   
