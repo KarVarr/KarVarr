@@ -71,7 +71,9 @@
 ---
 
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/DyeaRFh450rTqd7yQB/giphy.gif" width="300"/>
+<img src="https://dribbble.com/shots/3303476-Reading?utm_source=Clipboard_Shot&utm_campaign=agneselo&utm_content=Reading&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=agneselo&utm_content=Reading&utm_medium=Social_Share" width="300"/>
+  
+  
 ```text                                                   
 Усов В.: Swift         ███████████████████▒░░░   80.00 %.  
 Clean code             ██████████▒░░░░░░░░░░░░   40.00 %.  
