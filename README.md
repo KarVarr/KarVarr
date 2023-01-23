@@ -74,9 +74,9 @@
   
   ### :books: Books:
   
-<img src="https://cdna.artstation.com/p/assets/images/images/028/523/344/original/pixel-jeff-night-shift.gif?1594728103" width="1005"/>
+<img src="https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904" width="1000"/>
   
-  ```text                                                   
+```text                                                   
 Усов В.: Swift         ███████████████████▒░░░   80.00 %.  
 Clean code             ██████████▒░░░░░░░░░░░░   40.00 %.  
 Grokking Algorithms    █▒░░░░░░░░░░░░░░░░░░░░░   1.00 %.    
@@ -157,6 +157,6 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-  <img src="https://s9.gifyu.com/images/MARIO-IGRY-Pixel-Gif-Pixel-Art-5534641-2.gif" width="1005"/>
+  <img src="https://s9.gifyu.com/images/MARIO-IGRY-Pixel-Gif-Pixel-Art-5534641-2.gif" width="1000"/>
   
 </div>
