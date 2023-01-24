@@ -76,13 +76,21 @@
   
 <img src="https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904" width="1000"/>
   
+  | Books               | Progress |
+  | --------------------| :------: |
+  | Усов В.: Swift      | 80%      |
+  | Clean code          | 40%      |
+  | Grokking Algorithms | 12%      |
+  
+  <!---
+  
 ```text                                                   
 Усов В.: Swift         ███████████████████▒░░░   80.00 %.  
 Clean code             ██████████▒░░░░░░░░░░░░   40.00 %.  
  Grokking Algorithms    ███░░░░░░░░░░░░░░░░░░░   12.00 %.    
 ``` 
 
-  <!---
+  
    | Books                                                          | Progress           |
 | ----------------------------------------------------------------| :---------------: |
 | Усов В.: Swift                                 |  ███████████████████▒░░░   80.00 %.|
