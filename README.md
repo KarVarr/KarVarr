@@ -87,7 +87,7 @@ Clean code             ██████████▒░░░░░░░░
 | ----------------------------------------------------------------| :---------------: |
 | Усов В.: Swift                                 |  ███████████████████▒░░░   80.00 %.|
 | Clean code                                   |   ██████████▒░░░░░░░░░░░░   40.00 %. |
-| Grokking Algorithms                           |   █▒░░░░░░░░░░░░░░░░░░░░░   1.00 % .|
+| Grokking Algorithms                           |   █▒░░░░░░░░░░░░░░░░░░░░░   12.00 % .|
   
 https://media.giphy.com/media/WoWm8YzFQJg5i/giphy.gif
 https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif
