@@ -76,7 +76,7 @@
   
 <img src="https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904" width="1000"/>
   
-  | Books               | Progress |
+  | Book                | Progress |
   | --------------------| :------: |
   | Усов В.: Swift      | 80%      |
   | Clean code          | 40%      |
