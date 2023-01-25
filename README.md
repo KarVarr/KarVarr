@@ -121,12 +121,12 @@ You can click the Preview link to take a look at your changes.
 Clean code             ██████████▒░░░░░░░░░░░░░   40.00 %.  
   ``` 
   ```text 
- Grokking Algorithms    ███░░░░░░░░░░░░░░░░░░░░░   12.00 %.    
+Grokking Algorithms    ███░░░░░░░░░░░░░░░░░░░░░   12.00 %.    
   ``` 
-    ```text 
+  ```text 
  🎧 Swift by Sundell - Podcast    
   ``` 
-    ```text 
+  ```text 
  🎧 Rock n' Roll - Podcast       
   ``` 
   
