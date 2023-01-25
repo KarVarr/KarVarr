@@ -96,27 +96,20 @@
 <!---
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KarVarr&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)] 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KarVarr&theme=radical&hide_border=true&anuraghazra&layout=compact)]
---->
 
-<!---
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KarVarr&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
---->
-<!---
+
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KarVarr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=KarVarr&show_icons=true&theme=radical)
---->
 
-<!---
 KarVarr/KarVarr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
   
----
-  
   <div id="header" align="center">
   
-  ### :books: Books:
+  ### :books:  Books & Podcasts  :studio_microphone: :
   
 <img src="https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904" width="1000"/>
   
@@ -125,16 +118,22 @@ You can click the Preview link to take a look at your changes.
 Усов В.: Swift         ███████████████████▒░░░   80.00 %. 
   ``` 
   ```text 
-Clean code             ██████████▒░░░░░░░░░░░░   40.00 %.  
+Clean code             ██████████▒░░░░░░░░░░░░░   40.00 %.  
   ``` 
   ```text 
- Grokking Algorithms    ███░░░░░░░░░░░░░░░░░░░   12.00 %.    
+ Grokking Algorithms    ███░░░░░░░░░░░░░░░░░░░░░   12.00 %.    
+  ``` 
+    ```text 
+ 🎧 Swift by Sundell - Podcast    
+  ``` 
+    ```text 
+ 🎧 Rock n' Roll - Podcast       
   ``` 
   
   
 <!---
 
- | Book                | Progress |
+  | Book                | Progress |
   | --------------------| :------: |
   | Усов В.: Swift      | 80%      |
   | Clean code          | 40%      |
