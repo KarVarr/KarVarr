@@ -72,41 +72,6 @@
 
 <div id="header" align="center">
   
-  ### :books: Books:
-  
-<img src="https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904" width="1000"/>
-  
-  | Book                | Progress |
-  | --------------------| :------: |
-  | Усов В.: Swift      | 80%      |
-  | Clean code          | 40%      |
-  | Grokking Algorithms | 12%      |
-  
-  <!---
-  
-```text                                                   
-Усов В.: Swift         ███████████████████▒░░░   80.00 %.  
-Clean code             ██████████▒░░░░░░░░░░░░   40.00 %.  
- Grokking Algorithms    ███░░░░░░░░░░░░░░░░░░░   12.00 %.    
-``` 
-
-  
-   | Books                                                          | Progress           |
-| ----------------------------------------------------------------| :---------------: |
-| Усов В.: Swift                                 |  ███████████████████▒░░░   80.00 %.|
-| Clean code                                   |   ██████████▒░░░░░░░░░░░░   40.00 %. |
-| Grokking Algorithms                           |   █▒░░░░░░░░░░░░░░░░░░░░░   12.00 % .|
-  
-https://media.giphy.com/media/WoWm8YzFQJg5i/giphy.gif
-https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif
- --->
----
-  
-</div>  
-
-
-<div id="header" align="center">
-  
 ### 💻 Codewars:
 
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/megatr9n/badges/large)
@@ -123,8 +88,11 @@ https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif
   </tr>
 </table>
   
+  
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=KarVarr&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+---
+  
 <!---
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KarVarr&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)] 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KarVarr&theme=radical&hide_border=true&anuraghazra&layout=compact)]
@@ -143,6 +111,50 @@ https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif
 KarVarr/KarVarr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+  
+---
+  
+  <div id="header" align="center">
+  
+  ### :books: Books:
+  
+<img src="https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904" width="1000"/>
+  
+ 
+  ```text                                                   
+Усов В.: Swift         ███████████████████▒░░░   80.00 %. 
+  ``` 
+  ```text 
+Clean code             ██████████▒░░░░░░░░░░░░   40.00 %.  
+  ``` 
+  ```text 
+ Grokking Algorithms    ███░░░░░░░░░░░░░░░░░░░   12.00 %.    
+  ``` 
+  
+  
+<!---
+
+ | Book                | Progress |
+  | --------------------| :------: |
+  | Усов В.: Swift      | 80%      |
+  | Clean code          | 40%      |
+  | Grokking Algorithms | 12%      |
+  
+
+  
+   | Books                                                          | Progress           |
+| ----------------------------------------------------------------| :---------------: |
+| Усов В.: Swift                                 |  ███████████████████▒░░░   80.00 %.|
+| Clean code                                   |   ██████████▒░░░░░░░░░░░░   40.00 %. |
+| Grokking Algorithms                           |   █▒░░░░░░░░░░░░░░░░░░░░░   12.00 % .|
+  
+https://media.giphy.com/media/WoWm8YzFQJg5i/giphy.gif
+https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif
+ --->
+    
+---
+  
+</div> 
 
 
 ### 💻 Completed courses:
