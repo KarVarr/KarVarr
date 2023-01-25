@@ -53,7 +53,7 @@
 --->
 ---
 
-### :hammer_and_wrench: Languages and Tools:
+### :hammer_and_wrench: Languages and Tools
 
 
 
@@ -72,11 +72,11 @@
 
 <div id="header" align="center">
   
-### 💻 Codewars:
+### 💻 Codewars
 
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/megatr9n/badges/large)
 
-### :octocat: My Stats :
+### :octocat: My Stats
   <table>
   <tr>
     <td>
@@ -109,7 +109,7 @@ You can click the Preview link to take a look at your changes.
   
   <div id="header" align="center">
   
-  ### :books:  Books & Podcasts  :studio_microphone: :
+  ### :books:  Books & Podcasts  :studio_microphone: 
   
 <img src="https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904" width="1000"/>
   
@@ -159,7 +159,7 @@ https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif
 </div> 
 
 
-### 💻 Completed courses:
+### 💻 Courses
 
 | Courses                                                         | Date              |
 | ----------------------------------------------------------------| :---------------: |
