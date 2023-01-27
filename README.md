@@ -20,7 +20,7 @@
 </a>
 --->
 <a href="mailto:megatr9n@gmail.com">
-<img src="https://img.shields.io/badge/-Email-lightgreen?style=for-the-badge&logo=google&logoColor=white" alt="Email Badge" />
+<img src="https://img.shields.io/badge/-Email-purple?style=for-the-badge&logo=google&logoColor=white" alt="Email Badge" />
 </a>
 
 </div>
@@ -118,10 +118,10 @@ You can click the Preview link to take a look at your changes.
 📖 Усов В.: Swift        ████████████████░░░░   80.00 %. 
   ``` 
   ```text 
-📖 Clean code            ███████████░░░░░░░░░   40.00 %.  
+📖 Clean code            █████████░░░░░░░░░░░   40.00 %.  
   ``` 
   ```text 
-📖 Grokking Algorithms   ██░░░░░░░░░░░░░░░░░░  20.00 %.    
+📖 Grokking Algorithms   ██████░░░░░░░░░░░░░░  30.00 %.    
   ``` 
   ```text 
  🎧 Swift by Sundell - Podcast    
