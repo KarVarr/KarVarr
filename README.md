@@ -121,7 +121,7 @@ You can click the Preview link to take a look at your changes.
 📖 Clean code            █████████░░░░░░░░░░░   40.00 %.  
   ``` 
   ```text 
-📖 Grokking Algorithms   ██████░░░░░░░░░░░░░░  30.00 %.    
+📖 Grokking Algorithms   ██████░░░░░░░░░░░░░░  29.00 %.    
   ``` 
   ```text 
  🎧 Swift by Sundell - Podcast    
