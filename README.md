@@ -66,6 +66,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Scss" alt="Sass" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg"  title="xcode" alt="xcode" width="40" height="40"/>&nbsp;
+  <img src="https://github.githubassets.com/images/mona-loading-default.gif"  title="gif" alt="gif" width="40" height="40"/>&nbsp;
 </div>
 
 --- 
