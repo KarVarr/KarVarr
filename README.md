@@ -43,7 +43,7 @@
 #### :magnet: I'm interested in iOS development and everything connected with it.
 #### :open_book: I have taken iOS development courses and continue my education and improvement.
 #### :desktop_computer: HarvardX CS50x, 100 Days of Swift, Apple Tutorials and others!
-
+##### :pager: Wrote a CV in vim!!!
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[@karenvardanian](https://t.me/karenvardanian)**<br>
 
 
@@ -122,7 +122,7 @@ You can click the Preview link to take a look at your changes.
 📖 Clean code            █████████░░░░░░░░░░░   40.00 %.  
   ``` 
   ```text 
-📖 Grokking Algorithms   ███████░░░░░░░░░░░░░  35.00 %.    
+📖 Grokking Algorithms   █████████░░░░░░░░░░░  39.00 %.    
   ``` 
   ```text 
  🎧 Swift by Sundell - Podcast    
