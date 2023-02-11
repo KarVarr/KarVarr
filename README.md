@@ -176,6 +176,7 @@ https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif
 | The Swift Developers: Swift c нуля: UIKit                       | 12/2022 - 01/2023 |
 | 100 Days of Swift                                               | 11/2022 - xx/2023 |
 | SwiftBook Junior iOS-Developer                                  | 01/2023 - xx/2023 |
+| Основы командной строки | CLI fundamentals                      | 02/2023 - 02/2023 |
 
 ---
 
