@@ -116,13 +116,13 @@ You can click the Preview link to take a look at your changes.
   
  
   ```text                                                   
-📖 Усов В.: Swift        ◉◉◉◉◉◉◉◉⦿⦿   80 %. 
+📖 Усов В.: Swift        ☒☒☒☒☒☒☒☒☐☐   80 %. 
   ``` 
   ```text 
-📖 Clean code            ◉◉◉◉⦿⦿⦿⦿⦿⦿  40 %.  
+📖 Clean code            ☒☒☒☒☐☐☐☐☐☐  40 %.  
   ``` 
   ```text 
-📖 Grokking Algorithms   ◉◉◉◉◉◉⦿⦿⦿⦿  58 %.    
+📖 Grokking Algorithms   ☒☒☒☒☒☒☐☐☐☐  58 %.    
   ``` 
   ```text 
  🎧 Swift by Sundell - Podcast    
@@ -133,6 +133,7 @@ You can click the Preview link to take a look at your changes.
   
   
 <!---
+☒  ☐
 ◉  ⦿
 █  ░  ░░░░░░░░░░░░░░░░░░░░░
 
