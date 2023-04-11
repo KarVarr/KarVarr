@@ -72,12 +72,12 @@
 --- 
 
 <div id="header" align="center">
-  <div>
+ 
 ### 💻 Codewars & LeetCode 🕹️
 
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/megatr9n/badges/large)
-![LeetCode Stats](https://leetcode.card.workers.dev/KarVarr?theme=dark&font=source_code_pro&ext=heatmap)
-  </div>
+![LeetCode Stats](https://leetcode.card.workers.dev/KarVarr?theme=dark&font=source_code_pro&extension=null)
+  
 ### :octocat: My Stats
   <table>
   <tr>
