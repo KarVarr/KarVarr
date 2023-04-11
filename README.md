@@ -78,12 +78,13 @@
 <table>
   <tr>
     <td>
-![My Codewarrior Profile Badge](https://www.codewars.com/users/megatr9n/badges/large)
+<a href="https://www.codewars.com/users/megatr9n/badges/large">
     </td>
   </tr>
   <tr>
     <td>
-  ![LeetCode Stats](https://leetcode.card.workers.dev/KarVarr?theme=dark&font=source_code_pro&extension=null)
+      <img align="left" src="https://leetcode.card.workers.dev/KarVarr?theme=dark&font=source_code_pro&extension=null" alt="LeetCode stats" />
+
     </td>
   </tr>
   </table>
