@@ -76,7 +76,8 @@
 ### 💻 Codewars
 
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/megatr9n/badges/large)
-
+![LeetCode Stats](https://leetcode.card.workers.dev/KarVarr?theme=dark&font=source_code_pro&extension=heatmap)
+  
 ### :octocat: My Stats
   <table>
   <tr>
