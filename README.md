@@ -151,13 +151,6 @@ You can click the Preview link to take a look at your changes.
 █  ░  ░░░░░░░░░░░░░░░░░░░░░
 
 
-  | Book                | Progress |
-  | --------------------| :------: |
-  | Усов В.: Swift      | 80%      |
-  | Clean code          | 40%      |
-  | Grokking Algorithms | 12%      |
-  
-
   
    | Books                                                          | Progress           |
 | ----------------------------------------------------------------| :---------------: |
