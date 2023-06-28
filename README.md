@@ -136,6 +136,9 @@ You can click the Preview link to take a look at your changes.
   ``` 
   ```text 
 📖 Grokking Algorithms   ☒☒☒☒☒☒☐☐☐☐  58 %.    
+  ```
+```text 
+📖 Human Interface Guidelines iOS  ☒☒☒☐☐☐☐☐☐☐  30 %.  
   ``` 
   ```text 
  🎧 Swift by Sundell - Podcast    
