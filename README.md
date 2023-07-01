@@ -139,6 +139,9 @@ You can click the Preview link to take a look at your changes.
   ```
 ```text 
 📖 Human Interface Guidelines iOS  ☒☒☒☐☐☐☐☐☐☐  30 %.  
+  ```
+```text 
+📖 The Swift Programming Language  ☐☐☐☐☐☐☐☐☐☐  0 %.  
   ``` 
   ```text 
  🎧 Swift by Sundell - Podcast    
