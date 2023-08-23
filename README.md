@@ -188,9 +188,10 @@ https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif
 | HarvardX CS50x CS50's Introduction to Computer Science          | 11/2022 - 01/2023 |
 | The Complete iOS App Development Bootcamp - Angela Yu           | 11/2022 - 12/2022 |
 | SwiftBook UIKit Framework course                                | 12/2022 - 12/2022 |
-| The Swift Developers: Swift c нуля                              | 12/2022 - xx/2023 |
-| 100 Days of Swift                                               | 11/2022 - xx/2023 |
-| SwiftBook Junior iOS-Developer                                  | 01/2023 - xx/2023 |
+| The Swift Developers: Swift c нуля                              | 12/2022 - 02/2023 |
+| 100 Days of Swift                                               | 11/2022 - 02/2023 |
+| 100 Days of SwiftUI                                             | 02/2023 - 04/2023 |
+| SwiftBook Junior iOS-Developer                                  | 01/2023 - 04/2023 |
 | Основы командной строки / CLI fundamentals                      | 02/2023 - 02/2023 |
 
 ---
