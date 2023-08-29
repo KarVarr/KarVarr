@@ -175,6 +175,21 @@ https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif
   
 </div> 
 
+ <div id="header" align="center">
+  
+  ### :popcorn:  Movies /b/  :cup_with_straw:
+  
+<img src="https://cdna.artstation.com/p/assets/images/images/015/574/888/original/pixel-jeff-claw.gif?1548847662" width="1000"/>
+  
+ 
+  ```text                                                   
+🎞️ We Are Legion: The Story of the Hacktivists 
+  ```
+
+---
+  
+</div> 
+
 
 ### 💻 Courses
 
