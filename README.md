@@ -179,7 +179,7 @@ https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif
   
   ### :popcorn:  Movies /b/  :cup_with_straw:
   
-<img src="https://cdna.artstation.com/p/assets/images/images/015/574/888/original/pixel-jeff-claw.gif?1548847662" width="1000"/>
+<img src="https://cdnb.artstation.com/p/assets/images/images/018/499/217/original/pixel-jeff-blade-runner-v2.gif?1559616031" width="1000"/>
   
  
   ```text                                                   
