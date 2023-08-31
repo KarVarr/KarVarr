@@ -185,6 +185,9 @@ https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif
   ```text                                                   
 🎞️ We Are Legion: The Story of the Hacktivists 
   ```
+ ```text                                                   
+🎞️ The Internet's Own Boy: The Story of Aaron Swartz 
+  ```
 
 ---
   
