@@ -191,7 +191,9 @@ https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif
 ```text                                                   
 🎞️ Revolution OS
   ```
-
+```text                                                   
+🎞️ TPB AFK: The Pirate Bay Away from Keyboard
+  ```
 
 ---
   
