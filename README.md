@@ -79,7 +79,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img  src="https://leetcode.card.workers.dev/KarVarr?theme=dark&font=source_code_pro&extension=null" alt="LeetCode stats"/>
+      <img  src="https://leetcode.card.workers.dev/KarVarr?theme=dark&font=source_code_pro&extension=null&ext=heatmap" alt="LeetCode stats"/>
     </td>
   </tr>
   </table>
@@ -154,16 +154,6 @@ You can click the Preview link to take a look at your changes.
 ◉  ⦿
 █  ░  ░░░░░░░░░░░░░░░░░░░░░
 
-
-  
-   | Books                                                          | Progress           |
-| ----------------------------------------------------------------| :---------------: |
-| Усов В.: Swift                                 |  ███████████████████▒░░░   80.00 %.|
-| Clean code                                   |   ██████████▒░░░░░░░░░░░░   40.00 %. |
-| Grokking Algorithms                           |   █▒░░░░░░░░░░░░░░░░░░░░░   12.00 % .|
-  
-https://media.giphy.com/media/WoWm8YzFQJg5i/giphy.gif
-https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif
  --->
     
 ---
