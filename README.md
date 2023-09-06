@@ -14,11 +14,6 @@
 <a href="https://twitter.com/WarKarWar">
 <img src="https://img.shields.io/badge/-Twitter-skyblue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
 </a>
-<!---
-<a href="tel:@karenvardanian">
-<img src="https://img.shields.io/badge/-Telegram-teal?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" />
-</a>
---->
 <a href="mailto:megatr9n@gmail.com">
 <img src="https://img.shields.io/badge/-Email-purple?style=for-the-badge&logo=google&logoColor=white" alt="Email Badge" />
 </a>
