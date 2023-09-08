@@ -33,7 +33,7 @@
 
 ## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; About me :
 
-#### <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> Hi, I’m Karen from Moscow.
+#### <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> Hi, I’m Karen from Yerevan.
 #### :calling: I’m currently learning Swift!
 #### :magnet: I'm interested in iOS development and everything connected with it.
 #### :open_book: I have taken iOS development courses and continue my education and improvement.
