@@ -203,6 +203,7 @@ You can click the Preview link to take a look at your changes.
 | 100 Days of SwiftUI                                             | 02/2023 - 04/2023 |
 | SwiftBook Junior iOS-Developer                                  | 01/2023 - 04/2023 |
 | Основы командной строки / CLI fundamentals                      | 02/2023 - 02/2023 |
+| Многопоточность в iOS (Swift) / Multithreading in iOS (Swift)   | 09/2023 - 09/2023 |
 
 ---
 
