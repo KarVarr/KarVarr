@@ -27,7 +27,7 @@
 --->
 </div>
 
-
+<!---
 ---
 
 
@@ -43,7 +43,7 @@
 
 
 
-<!---
+
 #### :scroll:  <a href="https://karvarr.github.io/ParallaxPortfolio/" target="_blank">My portfolio </a>
 --->
 ---
