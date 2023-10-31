@@ -120,7 +120,7 @@ You can click the Preview link to take a look at your changes.
   
  
   ```text                                                   
-📖 Усов В.: Swift        ☒☒☒☐☐☐☐☐☐☐   30 %. 
+📖 Усов В.: Swift        ☒☒☒☐☐☐☐☐☐☐   31 %. 
   ``` 
   ```text 
 📖 Clean code            ☒☒☒☒☐☐☐☐☐☐  40 %.  
