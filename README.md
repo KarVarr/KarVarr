@@ -75,7 +75,7 @@
   <tr>
     <td align="center">
      <!--- <img  src="https://leetcode.card.workers.dev/KarVarr?theme=dark&font=source_code_pro&extension=null&ext=heatmap" alt="LeetCode stats"/> --->
-      <img  src="https://leetcard.jacoblin.cool/KarVarr?theme=dark&font=Anonymous%20Pro&ext=heatmap" alt="LeetCode stats"/>
+      <img  src="https://leetcard.jacoblin.cool/KarVarr?theme=dark&font=Anonymous%20Pro" alt="LeetCode stats"/>
     </td>
   </tr>
   </table>
