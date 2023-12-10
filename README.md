@@ -38,9 +38,6 @@
 #### :pager: Wrote a CV in vim!!!
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[@karenvardanian](https://t.me/karenvardanian)**<br>
 
-
-
-
 #### :scroll:  <a href="https://karvarr.github.io/ParallaxPortfolio/" target="_blank">My portfolio </a>
 --->
 ---
@@ -120,7 +117,7 @@ You can click the Preview link to take a look at your changes.
   
  
   ```text                                                   
-📖 Усов В.: Swift        ☒☒☒☒☒☒☐☐☐☐   67 %. 
+📖 Усов В.: Swift        ☒☒☒☒☒☒☐☐☐☐   68 %. 
   ``` 
   ```text 
 📖 Clean code            ☒☒☒☒☐☐☐☐☐☐  40 %.  
