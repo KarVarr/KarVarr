@@ -115,7 +115,7 @@ You can click the Preview link to take a look at your changes.
   
  
   ```text                                                   
-📖 Усов В.: Swift        ☒☒☒☒☒☐☐☐☐☐   51 %. 
+📖 Усов В.: Swift        ☒☒☒☒☒☐☐☐☐☐   52 %. 
   ``` 
   ```text 
 📖 Clean code            ☒☒☒☒☐☐☐☐☐☐  40 %.  
