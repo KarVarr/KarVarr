@@ -115,22 +115,25 @@ You can click the Preview link to take a look at your changes.
   
  
   ```text                                                   
-📖 Swift Основы разработки       ☒☒☒☒☒☒☒☒☒☒   100 %. 
+📖 Swift Основы разработки                              ☒☒☒☒☒☒☒☒☒☒   100 %. 
   ``` 
   ```text 
-📖 Clean code            ☒☒☒☒☐☐☐☐☐☐  40 %.  
+📖 Clean code                                           ☒☒☒☒☐☐☐☐☐☐  40 %.  
   ``` 
   ```text 
-📖 Grokking Algorithms   ☒☒☒☒☒☒☐☐☐☐  58 %.    
+📖 Grokking Algorithms                                  ☒☒☒☒☒☒☐☐☐☐  58 %.    
   ```
 ```text 
-📖 Human Interface Guidelines iOS  ☒☒☒☐☐☐☐☐☐☐  30 %.  
+📖 Human Interface Guidelines iOS                       ☒☒☒☐☐☐☐☐☐☐  30 %.  
+  ```
+```text 
+📖 Head First Swift - O'Reilly                          ☒☒☐☐☐☐☐☐☐☐  20 %.  
   ```
 ```text 
 📖 Swift. Development of apps for iOS. UIKit framework  ☒☒☒☒☒☒☒☒☒☒  100 %.  
   ```
 ```text 
-📖 The Swift Programming Language  ☒☒☒☒☒☒☒☒☒☒  100 %.  
+📖 The Swift Programming Language                       ☒☒☒☒☒☒☒☒☒☒  100 %.  
   ``` 
   ```text 
  🎧 Swift by Sundell - Podcast    
