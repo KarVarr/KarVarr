@@ -124,7 +124,7 @@ You can click the Preview link to take a look at your changes.
 📖 Grokking Algorithms                                  ☒☒☒☒☒☒☐☐☐☐  58 %.    
   ```
 ```text 
-📖 Human Interface Guidelines iOS                       ☒☒☒☐☐☐☐☐☐☐  30 %.  
+📖 Human Interface Guidelines iOS                       ☒☒☒☐☐☐☐☐☐☐  31 %.  
   ```
 ```text 
 📖 Head First Swift - O'Reilly                          ☒☒☒☒☐☐☐☐☐☐  43 %.  
