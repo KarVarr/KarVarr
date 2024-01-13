@@ -127,7 +127,7 @@ You can click the Preview link to take a look at your changes.
 📖 Human Interface Guidelines iOS                       ☒☒☒☐☐☐☐☐☐☐  31 %.  
   ```
 ```text 
-📖 Head First Swift - O'Reilly                          ☒☒☒☒☐☐☐☐☐☐  55 %.  
+📖 Head First Swift - O'Reilly                          ☒☒☒☒☒☒☒☐☐☐  75 %.  
   ```
 ```text 
 📖 Swift. Development of apps for iOS. UIKit framework  ☒☒☒☒☒☒☒☒☒☒  100 %.  
