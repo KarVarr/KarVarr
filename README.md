@@ -115,10 +115,10 @@ You can click the Preview link to take a look at your changes.
   
  
   ```text                                                   
-📖 Swift Основы разработки                              ☒☒☒☒☒☒☒☒☒☒   100 %. 
+📖 Swift Основы разработки                              ☒☒☒☒☒☒☒☒☒☒  100 %. 
   ``` 
   ```text 
-📖 Clean code                                           ☒☒☒☒☐☐☐☐☐☐  40 %.  
+📖 Code: The Hidden Language of Computer                ☒☐☐☐☐☐☐☐☐☐  01 %.  
   ``` 
   ```text 
 📖 Grokking Algorithms                                  ☒☒☒☒☒☒☒☒☒☒  100%.    
