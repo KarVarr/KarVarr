@@ -118,7 +118,7 @@ You can click the Preview link to take a look at your changes.
 📖 Swift Основы разработки                              ☒☒☒☒☒☒☒☒☒☒  100 %. 
   ``` 
   ```text 
-📖 Code: The Hidden Language of Computer                ☒☐☐☐☐☐☐☐☐☐  21 %.  
+📖 Code: The Hidden Language of Computer                ☒☐☐☐☐☐☐☐☐☐  22 %.  
   ``` 
   ```text 
 📖 Grokking Algorithms                                  ☒☒☒☒☒☒☒☒☒☒  100%.    
