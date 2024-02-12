@@ -113,28 +113,28 @@ You can click the Preview link to take a look at your changes.
   
 <img src="https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904" width="1000"/>
   
- 
+
+ ```text 
+📖 The Swift Programming Language                       ☒☒☒☒☒☒☒☒☒☒  100 %.  
+  ```
   ```text                                                   
 📖 Swift Основы разработки                              ☒☒☒☒☒☒☒☒☒☒  100 %. 
-  ``` 
+  ```
+```text 
+📖 Swift. Development of apps for iOS. UIKit framework  ☒☒☒☒☒☒☒☒☒☒  100 %.  
+  ```
+```text 
+📖 Head First Swift - O'Reilly                          ☒☒☒☒☒☒☒☒☒☒  100 %.  
+  ```
+```text 
+📖 Human Interface Guidelines iOS                       ☒☒☒☐☐☐☐☐☐☐  31 %.  
+  ```
   ```text 
 📖 Code: The Hidden Language of Computer                ☒☐☐☐☐☐☐☐☐☐  23 %.  
   ``` 
   ```text 
 📖 Grokking Algorithms                                  ☒☒☒☒☒☒☒☒☒☒  100%.    
   ```
-```text 
-📖 Human Interface Guidelines iOS                       ☒☒☒☐☐☐☐☐☐☐  31 %.  
-  ```
-```text 
-📖 Head First Swift - O'Reilly                          ☒☒☒☒☒☒☒☒☒☒  100 %.  
-  ```
-```text 
-📖 Swift. Development of apps for iOS. UIKit framework  ☒☒☒☒☒☒☒☒☒☒  100 %.  
-  ```
-```text 
-📖 The Swift Programming Language                       ☒☒☒☒☒☒☒☒☒☒  100 %.  
-  ``` 
   ```text 
  🎧 Swift by Sundell - Podcast    
   ``` 
