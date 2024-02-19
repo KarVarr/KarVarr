@@ -130,7 +130,7 @@ You can click the Preview link to take a look at your changes.
 📖 Human Interface Guidelines iOS                       ☒☒☒☐☐☐☐☐☐☐  31 %.  
   ```
   ```text 
-📖 Code: The Hidden Language of Computer                ☒☐☐☐☐☐☐☐☐☐  30 %.  
+📖 Code: The Hidden Language of Computer                ☒☐☐☐☐☐☐☐☐☐  31 %.  
   ``` 
   ```text 
 📖 Grokking Algorithms                                  ☒☒☒☒☒☒☒☒☒☒  100%.    
