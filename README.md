@@ -60,7 +60,6 @@
  
 ### 💻 Codewars & LeetCode 🕹️
   
- 
 <table>
   <tr>
     <td align="center">
@@ -130,7 +129,7 @@ You can click the Preview link to take a look at your changes.
 📖 Human Interface Guidelines iOS                       ☒☒☒☒☒☐☐☐☐☐  50 %.  
   ```
   ```text 
-📖 Code: The Hidden Language of Computer                ☒☐☐☐☐☐☐☐☐☐  45 %.  
+📖 Code: The Hidden Language of Computer                ☒☐☐☐☐☐☐☐☐☐  46 %.  
   ``` 
   ```text 
 📖 Grokking Algorithms                                  ☒☒☒☒☒☒☒☒☒☒  100%.    
