@@ -127,7 +127,7 @@ You can click the Preview link to take a look at your changes.
 📖 Head First Swift - O'Reilly                          ☒☒☒☒☒☒☒☒☒☒  100 %.  
   ```
 ```text 
-📖 Human Interface Guidelines iOS                       ☒☒☒☒☒☐☐☐☐☐  50 %.  
+📖 Human Interface Guidelines iOS                       ☒☒☒☒☒☒☐☐☐☐  60 %.  
   ```
   ```text 
 📖 Code: The Hidden Language of Computer                ☒☒☒☒☒☒☒☒☒☒  100 %.  
