@@ -115,31 +115,34 @@ You can click the Preview link to take a look at your changes.
   
 
  ```text 
-📖 The Swift Programming Language                       ☒☒☒☒☒☒☒☒☒☒  100 %.  
+📖 The Swift Programming Language                       ☒☒☒☒☒☒☒☒☒☒  100 %
   ```
   ```text                                                   
-📖 Swift Основы разработки                              ☒☒☒☒☒☒☒☒☒☒  100 %. 
+📖 Swift Основы разработки                              ☒☒☒☒☒☒☒☒☒☒  100 %
   ```
 ```text 
-📖 Swift. Development of apps for iOS. UIKit framework  ☒☒☒☒☒☒☒☒☒☒  100 %.  
+📖 Swift. Development of apps for iOS. UIKit framework  ☒☒☒☒☒☒☒☒☒☒  100 %
   ```
 ```text 
-📖 Head First Swift - O'Reilly                          ☒☒☒☒☒☒☒☒☒☒  100 %.  
+📖 Head First Swift - O'Reilly                          ☒☒☒☒☒☒☒☒☒☒  100 %
   ```
 ```text 
-📖 Human Interface Guidelines iOS                       ☒☒☒☒☒☒☒☒☒☒  100 %.  
+📖 Human Interface Guidelines iOS                       ☒☒☒☒☒☒☒☒☒☒  100 %  
   ```
   ```text 
-📖 Code: The Hidden Language of Computer                ☒☒☒☒☒☒☒☒☒☒  100 %.  
+📖 Code: The Hidden Language of Computer                ☒☒☒☒☒☒☒☒☒☒  100 % 
   ``` 
   ```text 
-📖 Grokking Algorithms                                  ☒☒☒☒☒☒☒☒☒☒  100%.    
+📖 Grokking Algorithms                                  ☒☒☒☒☒☒☒☒☒☒  100 %  
+  ```
+ ```text 
+📖 Swift in Depth                                       ☐☐☐☐☐☐☐☐☐☐  1 % 
   ```
   ```text 
  🎧 Swift by Sundell - Podcast    
   ``` 
   ```text 
- 🎧 Rock n' Roll English - Podcast       
+ 🎧 Rock n' Roll English - Podcast        
   ``` 
  
 <!---
