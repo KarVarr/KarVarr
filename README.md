@@ -135,7 +135,7 @@ You can click the Preview link to take a look at your changes.
 📖 Grokking Algorithms                                  ☒☒☒☒☒☒☒☒☒☒  100 %  
   ```
  ```text 
-📖 Swift in Depth                                       ☐☐☐☐☐☐☐☐☐☐  8 % 
+📖 Swift in Depth                                       ☐☐☐☐☐☐☐☐☐☐ 09 % 
   ```
   ```text 
  🎧 Swift by Sundell - Podcast    
