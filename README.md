@@ -113,7 +113,6 @@ You can click the Preview link to take a look at your changes.
   
 <img src="https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904" width="1000"/>
   
-
  ```text 
 📖 The Swift Programming Language                       ☒☒☒☒☒☒☒☒☒☒  100 %
   ```
