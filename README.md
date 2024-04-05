@@ -74,7 +74,7 @@
   </tr>
   </table>
 
-  
+
 ### :octocat: My Stats
   <table>
   <tr>
@@ -174,9 +174,7 @@ You can click the Preview link to take a look at your changes.
   ```
 
 ---
-  
 </div> 
-
 
 ### 💻 Courses
 
