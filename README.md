@@ -74,7 +74,6 @@
   </tr>
   </table>
 
-
 ### :octocat: My Stats
   <table>
   <tr>
